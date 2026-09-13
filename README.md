@@ -2,4 +2,4 @@
 
 Liming Yang | Research Portfolio
 
-Updated 2026-09-13: FIIS 2026 acceptance and tri-chain value quantification V1.9.
+Tri-chain value evaluation: plan comparison, business metrics, management ratings, weighted contributions, evaluation and decision feedback.
