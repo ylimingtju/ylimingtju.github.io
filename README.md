@@ -2,4 +2,4 @@
 
 Liming Yang | Research Portfolio
 
-Tri-chain value evaluation: plan comparison, business metrics, management ratings, weighted contributions, evaluation and decision feedback.
+Tri-chain value evaluation: one connected method diagram linking business indicators, management preferences, the evaluation function and decision feedback.
